@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X Player</string>
+    <string name="missingStr">missing</string>
+
+    <string name="mainA_tv_username">未登录</string>
+
+    <string name="mainA_song_list_title">收藏歌曲</string>
+
+    <string name="mainA_bt_last">&lt;</string>
+    <string name="mainA_bt_next">&gt;</string>
+    <string name="mainA_bt_play">play</string>
+    <string name="mainA_bt_pause">pause</string>
+
+    <string name="mainA_playingInfoFmt">正在播放: %s</string>
+    <string name="mainA_TimeFmt">%s / %s</string>
+</resources>

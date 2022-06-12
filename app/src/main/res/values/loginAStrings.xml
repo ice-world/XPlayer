@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Login Activity Strings -->
+    <string name="loginA_title">登录 X Player</string>
+    <string name="loginA_tv_username">用户名：</string>
+    <string name="loginA_tv_password">密码：</string>
+    <string name="loginA_btT_login">登录</string>
+    <string name="loginA_btT_register">注册</string>
+</resources>
